@@ -1,2 +1,2 @@
 # Language-fMRI
-The process of learning and using a second language is associated with distinct patterns of brain activation and network organization compared to the native language.
+Learning and using a second language engages the brain in unique ways, often resulting in distinct patterns of neural activation and network organization that differ from those used when processing one’s native languageLearning and using a second language engages the brain in unique ways, often resulting in distinct patterns of neural activation and network organization that differ from those used when processing one’s native language.
